@@ -1,6 +1,6 @@
 # Cisco-Packet-Tracing-Projects
 <div align="center">
-  <img src="https://i.imgur.com/2fx3ImB.gif" style="display:inline-block;height:100px;">
+  <img src="https://i.imgur.com/VZmSCEM.gif" style="display:inline-block;height:100px;">
 </div>
 
 <div align="center">

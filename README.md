@@ -10,6 +10,7 @@
    <div align="center">
     <h2>Projects</h2>
     <ul>
+      <li><strong>Wi-Fi Router Configuration and Web Server_DNS Server Setup with Firewall Configuration</strong>: This project involves configuring a Wi-Fi router, setting up a web server, DNS server, and configuring firewall settings for enhanced security.</li>
       <li><strong>Wi-Fi Router Configuration and Web Server Setup</strong>: This project involves configuring a Wi-Fi router and setting up a web server for hosting a website.</li>
       <li><strong>Web Design using Packet Tracer WITH DHCP SERVER</strong>: Create a web design using Packet Tracer and configure a DHCP server for dynamic IP address assignment.</li>
       <li><strong>VPN Tunneling Interface between Routers</strong>: Implement a VPN tunneling interface between routers to establish secure communication over a public network.</li>

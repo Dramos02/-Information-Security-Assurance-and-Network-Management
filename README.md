@@ -29,6 +29,7 @@
       <li><strong>Basic Security Policy ASA SWITCHPORT</strong>: Implement basic security policies for ASA switch ports.</li>
       <li><strong>Basic Security Policy</strong>: Configure basic security policies to protect network resources.</li>
       <li><strong>Basic Cisco ASA Configuration</strong>: Perform basic configuration of Cisco ASA (Adaptive Security Appliance) for network security.</li>
+      <li><strong>Cisco ASA Firewall and DHCP Configuration of INSIDE</strong>: Configure a Cisco ASA firewall with settings for DHCP configuration of the inside network.</li>
     </ul>
   </div>
 
